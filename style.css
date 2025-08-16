@@ -1,0 +1,13 @@
+h1{color: rgb(45, 137, 137);}
+p{color: rgb(56, 79, 208);}
+body{color: rgb(11, 11, 11);}
+header{text-align: center; margin-bottom: 20px;}
+blockquote{color: black;}
+titulo-principal{text-align: center;
+font-weight: bold; font-size: 2.5em;
+color: #333; font-family: Arial, Helvetica, sans-serif
+;margin-top: 20px; text-shadow: 2px 2px 5px
+rgba(red, green, blue, alpha);}
+imagem-box{display: flex;}
+ul{color: cadetblue;}
+h2{color: cadetblue;}
